@@ -1,0 +1,18 @@
+:toc: 
+
+
+= ascii-doctor-github
+
+.Example
+[source, java]
+----
+public class MyClass {
+    public void hello() {
+        var i = 10;
+    }
+}
+----
+
+== Head Level 2
+
+=== Head Level 3
